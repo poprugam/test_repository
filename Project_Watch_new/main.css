@@ -1,0 +1,80 @@
+body{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 44px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.fons{
+    margin: 20px;
+    width: 500px;
+    min-width: 350px;
+    border: 5px;
+    background-color: aquamarine;
+    padding: 25px 25px 25px 10px;
+}
+
+.shadow{
+    
+}
+
+.square1 {
+    float: left;
+    width: 100%;
+    border: 3px;
+    background-image: linear-gradient(10deg, black, red);
+    color: aliceblue;
+}
+
+.square2 {
+    float: left;
+    width: 65%;
+    background-color: aliceblue;
+    border: 3px;
+    background-image: linear-gradient(10deg, black, red);
+    color: aliceblue;
+}
+
+.square3 {
+    width: 35%%;
+    background-color: aliceblue;
+    border: 3px;
+    background-image: linear-gradient(10deg, black, red);
+    color: aliceblue;
+}
+
+.square4 {
+    float: left;
+    width: 33%;
+    background-color: aliceblue;
+    border: 3px;
+    background-image: linear-gradient(10deg, black, red);
+    color: aliceblue;
+}
+
+.square5 {
+    float: left;
+    width: 33%;
+    background-color: aliceblue;
+    border: 3px;
+    background-image: linear-gradient(10deg, black, red);
+    color: aliceblue;
+}
+
+.square6 {
+    float: none;
+    background-color: aliceblue;
+    border: 3px;
+    background-image: linear-gradient(10deg, black, red);
+    color: aliceblue;
+}
+
+.square7 {
+    float: none;
+    background-color: aliceblue;
+    border: 3px;
+    background-image: linear-gradient(10deg, black, red);
+    color: aliceblue;
+}
+
